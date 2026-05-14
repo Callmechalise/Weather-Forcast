@@ -1,6 +1,6 @@
-**Anu Weather App:**
+**Weather App:**
 
-Anu Weather App is a simple graphical user interface (GUI) application built using Python's Tkinter library that allows users to check the current weather conditions of any city. The app uses the OpenWeatherMap API to fetch weather data and displays it along with the local time of the queried city.
+Weather App is a simple graphical user interface (GUI) application built using Python's Tkinter library that allows users to check the current weather conditions of any city. The app uses the OpenWeatherMap API to fetch weather data and displays it along with the local time of the queried city.
 
 **Features:**
 
