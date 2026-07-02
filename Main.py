@@ -11,7 +11,7 @@ import pytz
 from PIL import Image, ImageTk
 
 win=Tk()
-win.title("Anu weather app")
+win.title("mero weather app")
 win.geometry("900x500")
 win.resizable(False,False)
 # win.configure(bg="Light blue")
